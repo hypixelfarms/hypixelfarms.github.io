@@ -186,6 +186,10 @@
   margin: 19px 173px 0;
 }
 
+.u-section-2 .embed-responsive-1 {
+  position: absolute;
+}
+
 .u-section-2 .u-text-3 {
   font-size: 1.25rem;
   margin: 19px 135px 0 298px;
